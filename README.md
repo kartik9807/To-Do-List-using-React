@@ -1,16 +1,49 @@
-# React + Vite
+# React To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive To-Do List application built using React.js and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Add tasks
+- Edit tasks
+- Delete tasks
+- Mark tasks as completed
+- Data persistence using Local Storage
+- Responsive UI
+- UUID-based unique task IDs
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Tailwind CSS
+- JavaScript
+- UUID
+- React icons
+- Local Storage API
 
-## Expanding the ESLint configuration
+## Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1920" height="973" alt="image" src="https://github.com/user-attachments/assets/e77caba0-9f7f-4312-8528-0f6781a79c3b" />
+
+## Learning Outcomes
+
+Through this project I learned:
+
+- React Hooks (`useState`, `useEffect`)
+- State Management
+- Component-Based Architecture
+- Local Storage Handling
+- Conditional Rendering
+- Event Handling in React
+
+## Future Improvements
+
+- Dark Mode
+- Due Dates
+- Drag and Drop Tasks
+- Backend Integration
+- Authentication
+
+## Author
+
+Kartik
